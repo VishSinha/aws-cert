@@ -16,7 +16,7 @@ https://www.udemy.com/aws-certified-solutions-architect-associate-amazon-practic
 
 
 ### AWS materials and FAQs
-a. [AWS well Architected framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+a. [AWS well Architected framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf){:target="_blank"}.
 
 b. EC2 ­ https://aws.amazon.com/ec2/faqs/
 c. EBS ­ https://aws.amazon.com/ebs/faqs/
