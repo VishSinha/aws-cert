@@ -1,4 +1,5 @@
-# AWS Certified Solutions Architect – Associate Prep
+# AWS Certified Solutions Architect – Associate Preparation 
+Here I captured resources and details which I followed to successly pass the AWS Certified Solutions Architect – Associate exam.
 
 ## AWS official link -
 
