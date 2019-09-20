@@ -1,7 +1,10 @@
-# AWS Cert Prep
+# AWS Certified Solutions Architect – Associate Prep
 
-## AWS Certified Solutions Architect – Associate
-### Udemy Courses
+## AWS official link for AWS Certified Solutions Architect – Associate 
+
+https://aws.amazon.com/certification/certified-solutions-architect-associate/
+
+## Udemy Courses
 a. DolfinEd Eissa A. course ­ This is very thorough course though time consuming and repeat of the concepts again and again.
 
 https://www.udemy.com/aws-certified-solutions-architect-associate-exam/
@@ -15,7 +18,7 @@ c. Practice test ­ by Jon Bonso – As most of the AWS cert questions are trick
 https://www.udemy.com/aws-certified-solutions-architect-associate-amazon-practice-exams/
 
 
-### AWS materials and FAQs
+## AWS materials and FAQs
 a. [AWS well Architected framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
 
 b. [EC2 FAQs](https://aws.amazon.com/ec2/faqs/)
@@ -38,7 +41,7 @@ j. [API Gateway FAQs](https://aws.amazon.com/api­gateway/faqs/)
 
 k. [Route53 FAQs](https://aws.amazon.com/route53/faqs/)
 
-### AWS Hands - Make sure you have hands on the following topics in detail
+## AWS Hands On - Make sure you have hands on the following topics in detail
 a. EC2 
   - Provisining, Securing EC2 compute instance
   - Understand different EC2 metadata 
