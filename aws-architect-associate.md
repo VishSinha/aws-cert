@@ -1,6 +1,6 @@
 # AWS Certified Solutions Architect – Associate Prep
 
-## AWS official link for AWS Certified Solutions Architect – Associate 
+## AWS official link -
 
 https://aws.amazon.com/certification/certified-solutions-architect-associate/
 
