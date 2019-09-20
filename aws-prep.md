@@ -21,18 +21,35 @@ a. [AWS well Architected framework](https://d1.awsstatic.com/whitepapers/archite
 b. [EC2 FAQs](https://aws.amazon.com/ec2/faqs/)
 
 c. [EBS FAQs](https://aws.amazon.com/ebs/faqs/)
+
 d. [ELB FAQs](https://aws.amazon.com/elasticloadbalancing/faqs/)
+
 e. [S3 FAQs](https://aws.amazon.com/s3/faqs/)
+
 f. [VPC FAQs](https://aws.amazon.com/vpc/faqs/)
+
 g. [Storage](https://aws.amazon.com/storagegateway/faqs/)
+
 h. [RDS FAQs](https://aws.amazon.com/rds/faqs/)
+
 i. [Lambda/Serverless FAQs](https://aws.amazon.com/lambda/faqs/) 
+
 j. [API Gateway FAQs](https://aws.amazon.com/api­gateway/faqs/) 
+
 k. [Route53 FAQs](https://aws.amazon.com/route53/faqs/)
 
-3. Hands­On on AWS console
-a. EC2
+### AWS Hands - Make sure you have hands on the following topics in detail
+a. EC2 
+  - Provisining, Securing EC2 compute instance
+  - Understand different EC2 metadata 
+
 b. VPC
+  - Setting up Private and Public VPC
+  - Understand internet gateway vs nat gateway vs nat instance
+
 c. S3
-d. Route53 e. Lambda
+
+d. Route53 
+
+e. Lambda
   
