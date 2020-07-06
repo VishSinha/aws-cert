@@ -6,15 +6,12 @@ Here I captured resources and details which I followed to successly pass the AWS
 https://aws.amazon.com/certification/certified-solutions-architect-associate/
 
 ## Udemy Courses
-a. DolfinEd Eissa A. course ­ This is very thorough course though time consuming and repeat of the concepts again and again.
 
-https://www.udemy.com/aws-certified-solutions-architect-associate-exam/
-
-b. A Cloud Guru course ­ AWS Certified Solutions Architect ­ Associate 2019
+a. A Cloud Guru course ­ AWS Certified Solutions Architect ­ Associate 2019
 
 https://www.udemy.com/aws-certified-solutions-architect-associate/
 
-c. Practice test ­ by Jon Bonso – As most of the AWS cert questions are tricky so this practice tests are very helpful before taking the actual exam
+b. Practice test ­ by Jon Bonso – As most of the AWS cert questions are tricky so this practice tests are very helpful before taking the actual exam
 
 https://www.udemy.com/aws-certified-solutions-architect-associate-amazon-practice-exams/
 
